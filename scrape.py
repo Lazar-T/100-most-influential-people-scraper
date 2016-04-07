@@ -1,4 +1,5 @@
 import csv
+
 from termcolor import colored
 from selenium import webdriver
 
