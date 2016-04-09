@@ -13,6 +13,11 @@ Scraper built with [Selenium](http://selenium-python.readthedocs.org/). Scrapes 
 
 Listed in ```requirements.txt``` file.
 
+### Installing requirements with pip:
+
+```
+pip install -r requirements.txt
+```
 ### Installation and Running
 ```
 git clone https://github.com/Lazar-T/100-most-influential-people-scraper
